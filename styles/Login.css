@@ -10,6 +10,15 @@ body{
     background-repeat: no-repeat;
     
 } */
+.reg-btn{
+    text-align: center;
+    margin-top: 1.5rem;
+}
+.reg{
+font-size: large;
+color:blue;
+cursor: pointer;
+}
 .loginBox{
     display: flex;
     justify-content: center;
